@@ -1,0 +1,5 @@
+Wert=  -6.9
+Wert=  17.1
+Wert=  12.3
+Wert=    27
+Wert=    30
